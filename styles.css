@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgba(64, 134, 145, 0.669);
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: rgba(184, 166, 166, 0.491);
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+legend {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input[type="radio"] {
+  margin-right: 8px;
+}
+
+button[type="submit"] {
+  background-color: #5f95a0;
+  color: rgb(233, 231, 234);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+  
